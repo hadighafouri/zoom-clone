@@ -21,8 +21,9 @@ export const Home = () => {
 const styles = StyleSheet.create({
   container: {
     // flex: 1,
-    backgroundColor: "#fff",
-    alignItems: "center",
-    justifyContent: "center",
+    padding: 5,
+    // backgroundColor: "black",
+    // alignItems: "center",
+    // justifyContent: "center",
   },
 });
